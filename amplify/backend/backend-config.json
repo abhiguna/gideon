@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "uploadimage15c98f72": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "cloudchallenge": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
