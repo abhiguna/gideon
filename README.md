@@ -1,24 +1,5 @@
-# upload-image
+# Gideon
+•	Gideon is a serverless multi-cloud web app that provides image upload and recognition services.
+•	Built the client side using Vue.js, Node.js and RESTful APIs.
+•	Architected the cloud infrastructure using AWS lambda, Azure Cognitive Services (Computer Vision), and GCP firestore.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
